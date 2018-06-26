@@ -1,5 +1,5 @@
 # **Hello World! I'm JiaQi Tang(Jacky)**
-![Leon](rmit-s3598284-JiaQi-Tang.github.io/images/fullsizeoutput_cf8.jpeg)
+![Jacky](rmit-s3598284-JiaQi-Tang.github.io/images/IMG_0582.JPG)
 You can click [here](https://github.com/rmit-s3598284-JiaQi-Tang/rmit-s3598284-JiaQi-Tang.github.io) to view the content of my github page!
 
 My github page is built by [Jekyll](https://jekyllrb.com/) , the language I use is [Markdown](https://guides.github.com/features/mastering-markdown/).
