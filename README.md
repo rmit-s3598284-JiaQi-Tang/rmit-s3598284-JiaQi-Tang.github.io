@@ -1,5 +1,5 @@
-## Hello World! I'm JiaQi Tang
-## You can call me Jacky as well!
+# Hello World! I'm JiaQi Tang
+# You can call me Jacky as well!
 
 You can use the [editor on GitHub](https://github.com/rmit-s3598284-JiaQi-Tang/rmit-s3598284-JiaQi-Tang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
