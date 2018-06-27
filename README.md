@@ -7,9 +7,9 @@ My github page is built by [Jekyll](https://jekyllrb.com/) , the language I use 
 
 ## [1.ELEVATOR SYSTEM](https://github.com/rmit-s3598284-JiaQi-Tang/Elevator)
 
-## [1.BINARY SEARCH](https://github.com/rmit-s3598284-JiaQi-Tang/BinarySearch)
-
 ![elevator uml](rmit-s3598284-JiaQi-Tang.github.io/images/ELEVATOR SYSTEM.png)
+
+## [1.BINARY SEARCH](https://github.com/rmit-s3598284-JiaQi-Tang/BinarySearch)
 
 ```
 import java.util.Scanner;
