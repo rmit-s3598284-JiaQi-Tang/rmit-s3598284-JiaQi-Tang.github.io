@@ -7,6 +7,6 @@ My github page is built by [Jekyll](https://jekyllrb.com/) , the language I use 
 
 ## [1.ELEVATOR SYSTEM](https://github.com/rmit-s3598284-JiaQi-Tang/Elevator)
 
-![elevator uml](rmit-s3598284-JiaQi-Tang.github.io/images/Screen Shot 2018-06-23 at 5.19.42 pm.png)
+![elevator uml](rmit-s3598284-JiaQi-Tang.github.io/images/ELEVATOR SYSTEM.png)
 
 ## [2.TO BE CONTINUE..](https://github.com/rmit-s3598284-JiaQi-Tang)
