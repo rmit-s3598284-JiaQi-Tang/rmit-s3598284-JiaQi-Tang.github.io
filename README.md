@@ -11,7 +11,7 @@ My github page is built by [Jekyll](https://jekyllrb.com/) , the language I use 
 
 ![elevator uml](rmit-s3598284-JiaQi-Tang.github.io/images/ELEVATOR SYSTEM.png)
 
-## [1.BINARY SEARCH](https://github.com/rmit-s3598284-JiaQi-Tang/BinarySearch)
+## [2.BINARY SEARCH](https://github.com/rmit-s3598284-JiaQi-Tang/BinarySearch)
 
 ```
 import java.util.Scanner;
