@@ -3,7 +3,7 @@
 
 You can click [here](https://github.com/rmit-s3598284-JiaQi-Tang/rmit-s3598284-JiaQi-Tang.github.io) to view the content of my github page!
 
-My github page is built by [Jekyll](https://jekyllrb.com/) , the language I use is [Markdown](https://guides.github.com/features/mastering-markdown/).
+My name is JiaQi Tang, born in 3rd/Dec/1993 ,studied at RMIT university from 2017
 
 # **Samples of my works**
 
