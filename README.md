@@ -80,6 +80,6 @@ public class BinarySearchDemo {
 ```
 ## [3.Casino Dice Game in MVC](https://github.com/rmit-s3598284-JiaQi-Tang/CasinoDiceGame-SADI-assignment2-)
 
-![diceGameFrameScreenShot](https://github.com/rmit-s3598284-JiaQi-Tang/rmit-s3598284-JiaQi-Tang.github.io/blob/master/images/Screen%20Shot%202018-07-05%20at%205.48.38%20am.png)
+![diceGameFrameScreenShot](rmit-s3598284-JiaQi-Tang.github.io/images/Screen Shot 2018-07-05 at 5.48.38 am.png)
 
 ## [4.TO BE CONTINUE..](https://github.com/rmit-s3598284-JiaQi-Tang)
