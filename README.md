@@ -100,7 +100,7 @@ To test the Multisets, I added those operations:
 6: Q -exit the program
 
 as the following image:
-![multiset](https://github.com/rmit-s3598284-JiaQi-Tang/rmit-s3598284-JiaQi-Tang.github.io/blob/master/images/Screen%20Shot%202018-08-27%20at%208.19.20%20pm.png)
+![multiset](rmit-s3598284-JiaQi-Tang.github.io/images/Screen Shot 2018-08-27 at 8.19.20 pm.png)
 
 ## [5.UML-ELEVATOR SYSTEM](https://github.com/rmit-s3598284-JiaQi-Tang/Elevator)
 
