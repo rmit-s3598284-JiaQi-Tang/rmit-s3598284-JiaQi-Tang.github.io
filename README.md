@@ -87,7 +87,7 @@ public class BinarySearchDemo {
 
 ## [4.Algorithm-Multiset](https://github.com/rmit-s3598284-JiaQi-Tang/Algorithm-Multiset_linkedList-sortedLinedList-binarySearchTree)
 
-Implement the abstract datatype 'Multiset' by java
+The program implemented the abstract datatype 'Multiset' by the following data structures
 
 1.linked list
 
