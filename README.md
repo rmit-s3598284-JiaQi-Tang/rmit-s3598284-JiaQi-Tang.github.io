@@ -7,15 +7,19 @@ My name is JiaQi Tang, born in 3rd/Dec/1993 ,studied at RMIT university from 201
 
 # **Samples of my works**
 
-## [1.Inner_World IOS diary application(on going)](https://github.com/rmit-s3598284-JiaQi-Tang/InnerWorld_IOS_Application)
+## [1.Inner_World IOS diary application](https://github.com/rmit-s3598284-JiaQi-Tang/InnerWorld_IOS_Application)
+
+This app is still on going....
+
 prototype:
+
 ![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/InnerWorldPrototype_gif.gif)
 
 ## [2.Casino Dice Game in MVC](https://github.com/rmit-s3598284-JiaQi-Tang/CasinoDiceGame-SADI-assignment2-)
 
 ![diceGameFrameScreenShot](rmit-s3598284-JiaQi-Tang.github.io/images/Screen Shot 2018-07-05 at 5.48.38 am.png)
 
-## [3.Algorithm-BINARY SEARCH by Java](https://github.com/rmit-s3598284-JiaQi-Tang/BinarySearch)
+## [3.Algorithm-BINARY SEARCH](https://github.com/rmit-s3598284-JiaQi-Tang/BinarySearch)
 
 ```
 import java.util.Scanner;
@@ -83,7 +87,7 @@ public class BinarySearchDemo {
 }
 ```
 
-## [4.Algorithm-Multiset(linked list, sorted linked list, binary search tree)](https://github.com/rmit-s3598284-JiaQi-Tang/Algorithm-Multiset_linkedList-sortedLinedList-binarySearchTree)
+## [4.Algorithm-Multiset](https://github.com/rmit-s3598284-JiaQi-Tang/Algorithm-Multiset_linkedList-sortedLinedList-binarySearchTree)
 
 Implement the abstract datatype 'Multiset' by java
 
