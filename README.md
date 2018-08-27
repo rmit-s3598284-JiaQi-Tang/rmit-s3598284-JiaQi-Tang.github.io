@@ -82,4 +82,7 @@ public class BinarySearchDemo {
 
 ![diceGameFrameScreenShot](rmit-s3598284-JiaQi-Tang.github.io/images/Screen Shot 2018-07-05 at 5.48.38 am.png)
 
-## [4.TO BE CONTINUE..](https://github.com/rmit-s3598284-JiaQi-Tang)
+## [4.'Inner World' IOS diary application]
+![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/InnerWorldPrototype_gif.gif)
+
+## [5.TO BE CONTINUE..](https://github.com/rmit-s3598284-JiaQi-Tang)
