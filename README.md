@@ -11,7 +11,9 @@ My name is JiaQi Tang, born in 3rd/Dec/1993 ,studied at RMIT university from 201
 
 prototype:
 
-![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/InnerWorldPrototype_gif.gif)
+![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/Aug-31-2018 06-11-52.gif)
+
+![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/Aug-31-2018 06-12-26.gif)
 
 ## [2.Casino Dice Game in MVC](https://github.com/rmit-s3598284-JiaQi-Tang/CasinoDiceGame-SADI-assignment2-)
 
