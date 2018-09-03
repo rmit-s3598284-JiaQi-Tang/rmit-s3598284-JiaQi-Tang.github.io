@@ -15,7 +15,7 @@ prototype:
 
 ![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/Sep-04-2018 07-25-55.gif)
 
-![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/Sep-04-2018 07-25-55.gif)
+![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/Sep-04-2018 07-30-07.gif)
 
 ## [2.Casino Dice Game in MVC](https://github.com/rmit-s3598284-JiaQi-Tang/CasinoDiceGame-SADI-assignment2-)
 
