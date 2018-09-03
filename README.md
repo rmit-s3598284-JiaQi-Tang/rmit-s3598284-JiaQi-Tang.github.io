@@ -11,7 +11,7 @@ My name is JiaQi Tang, born in 3rd/Dec/1993 ,studied at RMIT university from 201
 
 prototype:
 
-![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/Aug-31-2018 06-11-52.gif)
+![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/Sep-04-2018 07-23-04.gif)
 
 ![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/Aug-31-2018 06-12-26.gif)
 
