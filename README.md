@@ -11,15 +11,11 @@ My name is JiaQi Tang, born in 3rd/Dec/1993 ,studied at RMIT university from 201
 
 ![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS1.png)
 
-![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS2.png)
+![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS2.png) ![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS3.png)
 
-![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS3.png)
+![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS4.png) ![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS5.png)
 
-![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS4.png)
-
-![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS5.png)
-
-## [1.IOS diary application](https://github.com/rmit-s3598284-JiaQi-Tang/InnerWorld_IOS_Application)
+## [2.IOS diary application](https://github.com/rmit-s3598284-JiaQi-Tang/InnerWorld_IOS_Application)
 
 prototype:
 
@@ -29,11 +25,11 @@ prototype:
 
 ![InnerWorldPrototypeGif](rmit-s3598284-JiaQi-Tang.github.io/images/Sep-04-2018 07-30-07.gif)
 
-## [2.Casino Dice Game in MVC](https://github.com/rmit-s3598284-JiaQi-Tang/CasinoDiceGame-SADI-assignment2-)
+## [3.Casino Dice Game in MVC](https://github.com/rmit-s3598284-JiaQi-Tang/CasinoDiceGame-SADI-assignment2-)
 
 ![diceGameFrameScreenShot](rmit-s3598284-JiaQi-Tang.github.io/images/Screen Shot 2018-07-05 at 5.48.38 am.png)
 
-## [3.Algorithm-BINARY SEARCH](https://github.com/rmit-s3598284-JiaQi-Tang/BinarySearch)
+## [4.Algorithm-BINARY SEARCH](https://github.com/rmit-s3598284-JiaQi-Tang/BinarySearch)
 
 ```
 import java.util.Scanner;
@@ -101,7 +97,7 @@ public class BinarySearchDemo {
 }
 ```
 
-## [4.Algorithm-Multiset](https://github.com/rmit-s3598284-JiaQi-Tang/Algorithm-Multiset_linkedList-sortedLinedList-binarySearchTree)
+## [5.Algorithm-Multiset](https://github.com/rmit-s3598284-JiaQi-Tang/Algorithm-Multiset_linkedList-sortedLinedList-binarySearchTree)
 
 The program implemented the abstract datatype 'Multiset' by the following data structures
 
@@ -129,8 +125,8 @@ as the following image:
 
 ![multiset](rmit-s3598284-JiaQi-Tang.github.io/images/Screen Shot 2018-08-27 at 8.19.20 pm.png)
 
-## [5.UML-ELEVATOR SYSTEM](https://github.com/rmit-s3598284-JiaQi-Tang/Elevator)
+## [6.UML-ELEVATOR SYSTEM](https://github.com/rmit-s3598284-JiaQi-Tang/Elevator)
 
 ![elevator uml](rmit-s3598284-JiaQi-Tang.github.io/images/ELEVATOR SYSTEM.png)
 
-## [6.TO BE CONTINUE..](https://github.com/rmit-s3598284-JiaQi-Tang)
+## [7.TO BE CONTINUE..](https://github.com/rmit-s3598284-JiaQi-Tang)
