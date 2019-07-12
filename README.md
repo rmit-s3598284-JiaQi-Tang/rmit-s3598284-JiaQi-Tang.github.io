@@ -7,17 +7,17 @@ My name is JiaQi Tang, born in 3rd/Dec/1993 ,studied at RMIT university from 201
 
 # **Samples of my works**
 
-## [1.RMIT School of Science IOS APP](https://github.com/rmit-s3598284-JiaQi-Tang/School-Of-Science-Mobile-App)
+## [1.RMIT School of Science IOS APP](https://github.com/rmit-s3598284-JiaQi-Tang/RMIT-School-of-Science-Mobile-App)
 
-![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/blob/master/images/SOS1.png)
+![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS1.png)
 
-![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/blob/master/images/SOS2.png)
+![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS2.png)
 
-![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/blob/master/images/SOS3.png)
+![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS3.png)
 
-![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/blob/master/images/SOS4.png)
+![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS4.png)
 
-![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/blob/master/images/SOS5.png)
+![SOSAPP](rmit-s3598284-JiaQi-Tang.github.io/images/SOS5.png)
 
 ## [1.IOS diary application](https://github.com/rmit-s3598284-JiaQi-Tang/InnerWorld_IOS_Application)
 
